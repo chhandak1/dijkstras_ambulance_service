@@ -1,7 +1,7 @@
 # Ambulance Service Using Modified Dijkstra's Algorithm
 
 In this project we have developed a modified version of the Dijskstra's shortest path algorithm and have applied to the ambulance service so that the ambulance can choose the best path to reach its destination.
-We have used the map of Vellore district in Tamil Nadu India for this project.
+We have implmented this algorithm on the map of Vellore district in Tamil Nadu, India for this project.
 
 ## Drawbacks of the Conventional Algorithm
 The conventional Dijkstra’s algorithm has generates a lot of redundancy of space and time. The
